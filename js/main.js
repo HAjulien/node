@@ -34,4 +34,9 @@ const stock = new Vue({
     }
 })
 
-
+const app5 = new Vue({
+    el: '#app-5',
+    data:{
+        products:['Boots', 'jackets', 'sockes']
+    }
+})

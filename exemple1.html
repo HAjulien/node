@@ -32,7 +32,18 @@
         <h2>{{ product }} are in stock.</h2>
     </div>
 
+    <div id="app-5">
+        <ul>
+            <li v-for='product in products'>
+               quantity: {{ product }} </br>name : {{ product.name }}
+            </li>
+        </ul>
+
+    </div>
+
     <script src="https://unpkg.com/vue"></script>
+    <!-- pour le json -->
+    <script src="https://unpkg.com/axios/dist/axios.min.js" ></script>
     <script src="js/main.js"></script>
 </body>
 </html>
