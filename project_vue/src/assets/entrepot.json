@@ -1,0 +1,36 @@
+{   
+    "time": 
+    {   "updated": "Feb 4, 2022 11:36:00 UTC", 
+        "updatedISO": "2022-04-04T11:36:00+00:00", 
+        "updateduk": "Feb 4, 2022 at 11:36 GMT" 
+    }, 
+    "disclaimer": "This data was produced from entrepots", 
+    "chartName": "entrepots", 
+    "entrepots": 
+    [ 
+        { 
+        "id":1,
+        "Marque": "Bechstein",
+        "Couleur": "Noir",
+        "Stock": 7
+        },
+        {  
+        "id":2,
+        "Marque": "Blüthner",
+        "Couleur": "Ivoir",
+        "Stock": 2
+        },
+        { 
+        "id":3,
+        "Marque": "Burgasser",
+        "Couleur": "Blanc",
+        "Stock": 5
+        },
+        {  
+        "id":4,
+        "Marque": "J.Czapka",
+        "Couleur": "Noir",
+        "Stock": 6
+        }
+    ]
+}
