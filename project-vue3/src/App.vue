@@ -4,10 +4,12 @@
     <router-link to="/about">About</router-link> |
     <router-link to="/contact">Contact</router-link>
   </div>
-  <router-view />
+  <router-view/>
+    <h1> ce texte apparait sur toute les pages</h1>
 </template>
 
-<style lang="scss">
+<style lang="scss" >
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -27,5 +29,9 @@
       color: $couleurliens;
     }
   }
+}
+
+h1{
+  color: #330885;
 }
 </style>

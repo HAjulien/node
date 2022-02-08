@@ -18,3 +18,18 @@ export default {
   },
 };
 </script>
+
+<style lang="scss" scoped>
+
+    h1{
+        color: $test;
+    }
+
+    .contact{
+        background-image: url(../../../za.jpg);
+        height: 500px;
+        background-position: center;
+        background-size: cover;
+    }
+
+</style>
