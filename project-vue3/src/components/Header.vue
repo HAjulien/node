@@ -10,7 +10,7 @@
     div{
         background-image: url(../assets/im.jpg);
     }
-    h1{
+    h1{ 
         color: rgb(1, 5, 15);
     }
 

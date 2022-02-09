@@ -34,4 +34,11 @@
 h1{
   color: #330885;
 }
+
+// @media screen and (min-width:1000px) {
+//   h1{
+//    display: none;
+//   }
+  
+// }
 </style>
