@@ -4,8 +4,7 @@
     <router-link to="/about">About</router-link> |
     <router-link to="/contact">Contact</router-link>
   </div>
-  <router-view/>
-    <h1> ce texte apparait sur toute les pages</h1>
+  </router-view>
 </template>
 
 <style lang="scss" >
